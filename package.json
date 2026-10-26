@@ -1,0 +1,10 @@
+{
+  "name": "cognifyz-web-internship-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix cognifyz-web-internship run dev",
+    "build": "npm --prefix cognifyz-web-internship run build",
+    "preview": "npm --prefix cognifyz-web-internship run preview"
+  }
+}
+
