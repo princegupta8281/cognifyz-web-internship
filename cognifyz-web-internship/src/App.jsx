@@ -39,10 +39,10 @@ import {
 } from 'lucide-react';
 
 const IMAGES = {
-  hero: "/images/hero.jpg",
-  aiData: "/images/ai-data.jpg",
-  webDesign: "/images/web-design.jpg",
-  cloudMentor: "/images/cloud-mentor.jpg"
+  hero: "./images/hero.jpg",
+  aiData: "./images/ai-data.jpg",
+  webDesign: "./images/web-design.jpg",
+  cloudMentor: "./images/cloud-mentor.jpg"
 };
 
 const GALLERY_ITEMS = [

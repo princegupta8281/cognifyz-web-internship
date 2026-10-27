@@ -1,0 +1,8 @@
+# Node modules (prevent future adds)
+node_modules/
+.vite/
+
+# Editor & OS files
+.DS_Store
+Thumbs.db
+*.log
